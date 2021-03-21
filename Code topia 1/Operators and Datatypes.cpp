@@ -13,10 +13,15 @@ int main()
     float s; //Stores decimal type values e.g. 3.14
     double t ; // Stores even longer decimals
 <<<<<<< HEAD
+<<<<<<< HEAD
     bool x; // Stores boolean values
     void n; // empty
 =======
 >>>>>>> Add files via upload
+=======
+    bool x; // Stores boolean values
+    void n; // empty
+>>>>>>> included 2 more data types
     // OPERATORS : + , - , * , / , %
     //cout<<a+5<<endl; //This is addition endl = end of line{shifts the end of output to new line}
     //s = 14.05 ;
@@ -24,7 +29,11 @@ int main()
     //cout<<5%2<<endl;
     return 0;
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
 >>>>>>> Add files via upload
+=======
+}
+>>>>>>> included 2 more data types
