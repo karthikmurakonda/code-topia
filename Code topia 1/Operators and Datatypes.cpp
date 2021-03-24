@@ -14,6 +14,7 @@ int main()
     double t ; // Stores even longer decimals
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     bool x; // Stores boolean values
     void n; // empty
 =======
@@ -22,6 +23,10 @@ int main()
     bool x; // Stores boolean values
     void n; // empty
 >>>>>>> included 2 more data types
+=======
+    bool x; // Stores boolean values
+    void n; // empty
+>>>>>>> db6e1664a054010cf2ca1dc94cfe0af28170a9c8
     // OPERATORS : + , - , * , / , %
     //cout<<a+5<<endl; //This is addition endl = end of line{shifts the end of output to new line}
     //s = 14.05 ;
@@ -30,6 +35,7 @@ int main()
     return 0;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
@@ -37,3 +43,6 @@ int main()
 =======
 }
 >>>>>>> included 2 more data types
+=======
+}
+>>>>>>> db6e1664a054010cf2ca1dc94cfe0af28170a9c8
